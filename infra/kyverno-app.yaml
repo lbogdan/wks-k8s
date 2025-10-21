@@ -11,6 +11,6 @@ spec:
   source:
     chart: kyverno
     repoURL: https://kyverno.github.io/kyverno/
-    # targetRevision: 3.12.0
+    targetRevision: 3.5.2
   # syncPolicy:
   #   automated: {}
